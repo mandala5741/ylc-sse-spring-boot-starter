@@ -1,5 +1,10 @@
-客户端JavaScript示例
+引入依赖
 
+<groupId>cloud.cqcloud.platform</groupId>
+<artifactId>ylc-sse-spring-boot-starter</artifactId>
+<version>1.0.1</version>
+
+客户端JavaScript示例
 
 javascript
 class SSEClient {
